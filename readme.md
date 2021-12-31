@@ -6,4 +6,4 @@
 
 ## Mobile View
 
-<img align = center src="./img/output2.jpeg" alt="Mobile View">
+<img style="align = center" src="./img/output2.jpeg" alt="Mobile View">
