@@ -5,5 +5,6 @@
 <img src="./img/output1.jpeg" alt="Desktop View">
 
 ## Mobile View
-
-<img style="align = center" src="./img/output2.jpeg" alt="Mobile View">
+<p align = "center">
+  <img src="./img/output2.jpeg" alt="Mobile View">
+</p>
